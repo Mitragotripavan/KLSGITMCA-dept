@@ -2,3 +2,7 @@
 This is my deprartment details
 MCA department
 The file is  edited on 28-10-2025
+
+# Jenkins Demo Project
+
+This is a simple demo for students learning Jenkins + GitHub integration.
